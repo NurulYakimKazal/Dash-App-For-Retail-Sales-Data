@@ -1,6 +1,6 @@
 # Dash-App-For-Retail-Sales-Data
 
-This project is simply a redesign of the already built dashboard by Anmol Tomar. 
+This project simply redesigns of the already built dashboard by Anmol Tomar. 
 You can visit his medium article to see the detail explanation of the dashboard (https://anmol3015.medium.com/python-dashboard-using-plotly-dash-example-2-f4fc0cc8a24c). 
 In addition, you can visit his github to see the source code (https://github.com/Anmol3015/Plotly_Dash_examples). 
 
