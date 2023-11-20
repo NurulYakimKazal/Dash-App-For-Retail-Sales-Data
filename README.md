@@ -17,5 +17,3 @@ For its technical details, the dashboard is built by taking advantage of some Py
 
 The dash and dash-bootstrap-components are used to build the layout and functionality of the dashboard, while plotly is used for creating the graphs displayed on it. 
 Furthermore, the pandas and numpy are utilized for dealing with the data.
-
-Visit [RetailSales.pythonanywhere.com](https://retailsales.pythonanywhere.com/) to see the dashboard in action!
